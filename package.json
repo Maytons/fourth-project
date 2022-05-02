@@ -1,0 +1,11 @@
+{
+  "name": "fourth-project",
+  "version": "1.0.0",
+  "description": "centered on the google drive website",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "mhatons",
+  "license": "MIT"
+}
